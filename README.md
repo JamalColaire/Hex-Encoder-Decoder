@@ -1,2 +1,2 @@
 # Hex Encoder / Decoder
-A program used for **concealment, safe guarding and retrieval** of private information.
+A program that uses **concealment, safe guarding and retrieval** for private information.
